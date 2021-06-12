@@ -1,5 +1,5 @@
 # Politic@s-Argentin@s-en-Twitter
-Análisis de la interacción de los politicos argentinos en Twitter durante el mes de Abril de 2021. 
+Este trabajo es el TF final del curso Data Analytis con Python de la EANT.
 Análisis exploratorio de los datos obtenidos de la pagina de Politic@s en Twitter: cuentas con mayor cantidad de seguidores, indice de crecimiento de seguidores y retwitts por usuario.
 Luego de realizar la limpieza de los datos identificando valores nulos, máximos, mínimos, etc, procederemos a disminuir el tamaño de la base de datos sobre la que trabajaremos. Así con los datos filtrados, realizamos el análisis de las interacciones entre cuentas, análsis de las palabras más utilizadas en los twits que generaron más impacto
 Se realiza un análisis de toxicidad, intentando dar cuenta del nivel de agresión que contienen los tweets de las figuras políticas y se visualizará esta 'toxicidad' por partido.
